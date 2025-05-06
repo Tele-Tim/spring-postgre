@@ -1,8 +1,5 @@
 HELP.md
 target/
-*.properties
-*.yml
-
 !.mvn/wrapper/maven-wrapper.jar
 !mvnw
 !mvnw.cmd
